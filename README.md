@@ -13,8 +13,3 @@ This project contains a Python-based keylogger that captures keyboard inputs and
 - `keylogger.py`: Contains the `Keylogger` class, which handles keylogging and email functions.
 - `Mail.py`: Initializes the `Keylogger` class, setting email credentials and starting the keylogging process.
 
-## Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/Keylogger_Project.git
-   cd Keylogger_Project
